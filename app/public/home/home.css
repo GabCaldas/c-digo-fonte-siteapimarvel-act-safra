@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+* {
+  font-family: 'Fredoka One', cursive;
+  box-sizing: border-box;
+}
+
+.jumbotron {
+  color: red;
+  text-align: center;
+  background-color: red;
+  background-image: url('https://logodownload.org/wp-content/uploads/2017/05/marvel-logo-4.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100px;
+}
+
+.characters-container {
+  padding: 30px;
+}
+
+.character-image {
+  border-radius: 10px;
+  box-shadow: 0px 0px 11px 3px black;
+}
+
+.search-container {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+.titulo {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+body {
+  background-image: url('https://i.pinimg.com/originals/de/f4/73/def473f3b4380d977d23ac2502cb1d77.jpg');
+  background-color: #ffffff;
+}
+
+.limit-item {
+  padding: 5px;
+}
+
+.btn-primary {
+  align-items: center;
+}
+.imagem {
+  padding: 10px;
+}
+
+.lista {
+}
+
+.vermais {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}

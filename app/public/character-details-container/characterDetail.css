@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+* {
+  font-family: 'Fredoka One', cursive;
+}
+
+.character {
+  text-align: center;
+}
+
+.card__container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.card__info {
+  justify-content: center;
+  width: 50rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.card__header {
+  padding: 20px;
+}
+
+.card-img-top {
+  display: block;
+  margin: 0px auto;
+}
+
+.comics {
+  text-align: center;
+  justify-content: center;
+  display: block;
+}
+
+.thumbnail {
+  box-shadow: 0 0 1em black;
+}
+
+.seemore2 {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+.card-img-top {
+}
